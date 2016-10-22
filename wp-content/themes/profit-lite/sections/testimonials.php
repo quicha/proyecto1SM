@@ -1,0 +1,1 @@
+<?php/* * testimonials section */if (has_action('mp_profit_section_testimonials')) {    do_action('mp_profit_section_testimonials');}

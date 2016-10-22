@@ -1,0 +1,27 @@
+#wpadminbar, 
+#wp-admin-bar-root-default > li > a,
+#wp-admin-bar-top-secondary > li > a,
+#wp-toolbar > .ab-top-menu > li > a > span.ab-label,
+#wpadminbar .quicklinks > ul > li > a,
+#wpadminbar .quicklinks > ul > li > .ab-empty-item
+{
+	height: 38px !important;	
+}
+
+#wpadminbar .quicklinks > ul > li > a, 
+#wpadminbar .quicklinks > ul > li > .ab-empty-item
+{
+	line-height: 38px !important;
+}
+#wp-admin-bar-root-default > li > a, #wp-admin-bar-top-secondary > li > a,  
+#wp-toolbar > .ab-top-menu > li > a > span.ab-label
+{
+	font: normal 16px/38px sans-serif !important;
+}
+#wp-toolbar > .ab-top-menu .ab-item > .ab-icon {
+	margin-top: 7px !important;
+}
+html.wp-toolbar {
+	padding-top: 38px !important;
+}
+

@@ -1,0 +1,1 @@
+<?php/* * first call to action section */if (has_action('mp_profit_section_first_action')) {    do_action('mp_profit_section_first_action');}

@@ -1,0 +1,1 @@
+<?php/* * features section */if (has_action('mp_profit_section_features')) {    do_action('mp_profit_section_features');}

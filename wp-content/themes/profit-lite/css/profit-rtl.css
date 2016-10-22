@@ -1,0 +1,297 @@
+body {
+  direction: rtl;
+  unicode-bidi: embed;
+}
+
+.wrapper-icons {
+  float: left;
+  border-left: 0px solid #c9d2d8;
+  border-right: 1px solid #c9d2d8;
+  margin: 40px 30px 0 0px;
+}
+
+.wrapper-icons a {
+  margin: 0 25px 0 0;
+}
+
+blockquote {
+  padding: 24px 100px 31px 24px;
+}
+
+blockquote:before {
+  right: 29px;
+  left: auto;
+}
+
+.widget table tfoot td#prev {
+  text-align: right;
+}
+
+.widget table tfoot td#next {
+  text-align: left;
+}
+
+.site-header .site-logo {
+  float: right;
+}
+
+.navbar {
+  float: left;
+}
+
+.main-header li {
+  float: right;
+}
+
+.breadcrumb-trail {
+  overflow: hidden;
+}
+
+.breadcrumb-trail a, .breadcrumb-trail span {
+  float: right;
+}
+
+.breadcrumb-trail .fa-angle-right:before {
+  content: "\f104";
+}
+
+.author-avatar {
+  float: right;
+  margin-right: 0;
+  margin-left: 30px;
+}
+
+caption {
+  text-align: right;
+}
+
+.widget.mp_profit_widget_contact.fa {
+  margin: 4px 0 0 21px;
+  float: right;
+}
+
+.widget .product_list_widget .wp-post-image {
+  right: 0;
+}
+
+.widget .product_list_widget li {
+  padding: 0 100px 0 0;
+}
+
+.widget.widget_display_stats dt {
+  float: right;
+  margin: 0 0 15px 8px;
+}
+
+.bbp-logged-in img.avatar {
+  float: right;
+}
+
+.widget .bbp-logged-in img.avatar {
+  margin: 0 0 24px 24px;
+}
+
+.site-main .comment-list .vcard {
+  margin: 8px 0 0 24px;
+  float: right;
+}
+
+.comment-form .form-submit {
+  margin-right: 0;
+  margin-left: 54px;
+}
+
+.post .meta {
+  overflow: hidden;
+}
+.post .meta span, .post .meta a {
+  float: right;
+}
+
+.woocommerce .woocommerce-result-count {
+  float: right;
+}
+
+.woocommerce .woocommerce-ordering {
+  float: left;
+}
+
+.woocommerce-pagination a, .woocommerce-pagination span {
+  margin: 0 0 20px 20px;
+  float: right;
+}
+
+.woocommerce ul.products li.product {
+  float: right;
+}
+
+.single-product .quantity {
+  margin-left: 17px;
+  margin-right: 0;
+}
+
+.site-main .tabs li {
+  float: right;
+  margin: 0 0 0 1px;
+}
+
+.single-product ol.commentlist .avatar {
+  margin: 8px 0 0 24px;
+  float: right;
+}
+
+.single-product ol.commentlist .star-rating {
+  margin: 16px 0 0 16px;
+}
+
+.woocommerce .star-rating {
+  float: right;
+}
+
+.shop_table.cart input[name="update_cart"] {
+  float: left;
+}
+
+.shop_table.cart .coupon {
+  float: right;
+}
+
+.site-main .entry-content ul > li, .site-main .comment-content ul > li {
+  padding: 0 32px 10px 0;
+}
+
+.site-main .entry-content ul > li:before, .site-main .comment-content ul > li:before {
+  content: "\f060";
+  right: 2px;
+}
+
+.site-footer .widget.widget_menu li a:before {
+  content: "\f104";
+  float: left;
+}
+
+.pull-right {
+  float: left !important;
+}
+
+.toTop {
+  right: auto;
+  left: 20px;
+}
+
+.profit .motopress-text-align-left {
+  text-align: right;
+}
+
+.profit .motopress-text-align-right {
+  text-align: left;
+}
+
+.profit .motopress-tabs-obj.ui-tabs.motopress-tabs-no-vertical .ui-tabs-nav li {
+  float: right;
+}
+
+.profit .motopress-tabs-obj.ui-tabs.motopress-tabs-basic .ui-tabs-nav li {
+  margin-right: 0px !important;
+  margin-left: 1px !important;
+}
+
+.motopress-tabs-obj.ui-tabs.motopress-tabs-vertical ul {
+  float: right !important;
+}
+
+.profit .motopress-tabs-obj.ui-tabs.motopress-tabs-basic.motopress-tabs-vertical .ui-tabs-nav li {
+  border-left: 0px solid #dadadb !important;
+  border-right: 1px solid #dadadb !important;
+}
+
+.profit .motopress-tabs-obj.ui-tabs.motopress-tabs-vertical .ui-tabs-nav li.ui-state-active a {
+  -moz-box-shadow: -1px 0px 0px 0 #ffffff, -1px 0 0 0 #ffffff !important;
+  -webkit-box-shadow: -1px 0px 0px 0 #ffffff, -1px 0 0 0 #ffffff !important;
+  box-shadow: -1px 0px 0px 0 #ffffff, -1px 0 0 0 #ffffff !important;
+}
+
+.profit .motopress-accordion-obj.ui-accordion .ui-accordion-header {
+  padding: .7em .9em .7em .7em !important;
+}
+
+.profit .motopress-accordion-obj.ui-accordion .ui-accordion-icons {
+  padding-left: .7em !important;
+  padding-right: 2.4em !important;
+}
+
+.motopress-accordion-obj.ui-accordion .ui-accordion-header .ui-accordion-header-icon {
+  right: 0;
+}
+
+.profit .motopress-table-obj .motopress-table-first-col-left td:first-child, .profit .motopress-table-obj .motopress-table-first-col-left th:first-child {
+  text-align: right;
+}
+
+li.bbp-forum-info, li.bbp-topic-title {
+  text-align: right;
+}
+
+#bbpress-forums div.bbp-search-form {
+  float: left;
+}
+
+#bbpress-forums div.bbp-forum-content, #bbpress-forums div.bbp-topic-content, #bbpress-forums div.bbp-reply-content {
+  text-align: right;
+}
+
+#bbpress-forums #bbp-user-body {
+  margin-left: 0;
+  margin-right: 180px;
+}
+
+#bbpress-forums #bbp-single-user-details {
+  float: right;
+}
+
+#bbpress-forums #bbp-your-profile fieldset div {
+  float: right;
+}
+
+#bbpress-forums #bbp-your-profile fieldset label[for] {
+  float: right;
+  padding: 5px 0px 5px 20px;
+  text-align: left;
+}
+
+.bbp-form th {
+  float: right;
+}
+
+.site-main .entry-content ol > li > ul, .site-main .comment-content ol > li > ul {
+  padding: 10px 32px 0 0px;
+}
+
+@media (max-width: 991px) {
+  .site-header .site-logo {
+    float: none;
+  }
+
+  .site-header.header-align-center .navbar, .navbar {
+    float: right;
+  }
+
+  .wrapper-icons {
+    margin: 3px 30px 27px 0px;
+  }
+}
+@media (max-width: 480px) {
+  .wrapper-icons {
+    margin: 5px auto 24px;
+    float: none;
+    border-right: 0px solid #c9d2d8;
+  }
+
+  #bbpress-forums #bbp-user-body {
+    margin-right: 0;
+  }
+
+  #bbpress-forums #bbp-your-profile fieldset label[for] {
+    text-align: right;
+  }
+}
